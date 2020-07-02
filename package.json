@@ -1,0 +1,23 @@
+{
+  "name": "todaytime",
+  "version": "1.0.0",
+  "description": "Parse .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjieDec/TodayTime.git"
+  },
+  "keywords": [
+    "Today",
+    "timestamp"
+  ],
+  "author": "Poor_RBs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenjieDec/TodayTime/issues"
+  },
+  "homepage": "https://github.com/KenjieDec/TodayTime#readme"
+}
